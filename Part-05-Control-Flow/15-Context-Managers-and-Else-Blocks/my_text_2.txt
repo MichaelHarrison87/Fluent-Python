@@ -1,0 +1,2 @@
+mytext2 - first line
+mytext2 - second line

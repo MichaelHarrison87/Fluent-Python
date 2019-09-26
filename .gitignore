@@ -2,4 +2,6 @@
 *.bin
 *.gif
 *.arr
+*.pyc
 settings.json
+__pycache__
